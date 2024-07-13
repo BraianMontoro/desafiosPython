@@ -5,7 +5,8 @@ Repositório para meus desafios de algorítimos em python
 ## Autores ❤️
 
 - **Braian Montoro** <br />
-	- **[Perfil GitHub] https://github.com/BraianMontoro/**
+	- **[GitHub] https://github.com/BraianMontoro/**
+    - **[Linkedin] https://www.linkedin.com/in/braian-montoro-450ba6113/**
 
 ## Códigos criados:
 
