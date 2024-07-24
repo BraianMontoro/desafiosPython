@@ -13,6 +13,7 @@ Repositório para meus desafios de algorítimos em python
 1. parImpar.py
 2. concatenarTextos.py
 3. tabuadaPotenciaValores.py
+4. calculadoraSimples.py
 
 ## Descrição dos scripts:
 
